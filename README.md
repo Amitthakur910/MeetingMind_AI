@@ -33,7 +33,7 @@ npm start
 # 4. Go to Settings and add your OpenAI API key
 ```
 
-## Getting an OpenAI API Key
+## Getting an API Key
 
 1. Go to [openrouter.ai/workspaces/default/keys](https://openrouter.ai/workspaces/default/keys)
 2. Create a new secret key
@@ -72,4 +72,4 @@ meetingmind/
 
 ---
 
-Built with ❤️ using React + OpenAI GPT-4o
+Built with ❤️ using React + OpenRouter AI
